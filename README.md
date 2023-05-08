@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solved-movie-theater-database
+<br>
+<p class="ui header product-top-header" title="Movie theater database Solution">Write the SQL Data Definition Language (DDL) commands to create the movie theater database based upon the below Entity Relationship Model (ERM). Be sure to include commands to create tables, fields, keys, and relationships. Write your commands in a Microsoft Word document. Your final submission will be a Microsoft Word document.
